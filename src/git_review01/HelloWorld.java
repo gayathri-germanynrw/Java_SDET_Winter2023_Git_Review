@@ -5,5 +5,7 @@ public class HelloWorld {
         System.out.println("this is hello world class ");
         System.out.println("data added :");
        System.out.println("data added :"); 
+        System.out.println("data added : today 3 rd february"); 
+        
     }
 }
